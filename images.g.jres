@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA////DwAAAPBVVVX1AAAAX1VVX1UPAPBV/1X/VfUA8FX1VV9f9QDwVVVVX/X1APBVVVVf9fUA8FVVVV/19QDwVf9VX1/1APBV9VX/VfUAAF9VVV9VDwAA8FVVVfUAAAAA////DwAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bob Pizza"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAX1VVBQAAAPBVVfVVAAAAX/VVVV8FAPBV9V9V9VUA8FX1VVVVXwDwVVVVVVVfAPBVVVVVVV8A8FVVVVVVXwDwVfVVVVVfAPBV9V9V9VUAAF/1VVVfBQAA8FVV9VUAAAAAX1VVBQAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "BoB Pizzaiolo"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
